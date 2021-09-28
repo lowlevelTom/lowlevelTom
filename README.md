@@ -1,5 +1,6 @@
 Hi, I'm mainly working on DIY projects using mostly Arduino compatible boards and AVR MCUs programmed in AVR C or C++ 
 (hopefully will start using some STM MCUs and dev boards, along with some others soon).
+NOTE: I started using GitHub just recently so there might be no public repositories just yet.
 
 <!--- - 👋 Hi, I’m @lowlevelTom
 - 👀 I’m interested in ...
